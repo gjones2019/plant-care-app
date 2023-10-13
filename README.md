@@ -1,6 +1,15 @@
 # Plant Care App Coding Exercise
 
-Plant Care App is a web application that provides valuable information and tips for gardening enthusiasts. Whether you're a seasoned gardener or just starting out, this app is designed to help you successfully grow a wide variety of plants. It offers a user-friendly interface, responsive design, and a rich database of plant care instructions.
+Plant Care App is a web application that provides valuable information and tips for gardening enthusiasts. Whether you're a seasoned gardener or just starting out, this app is designed to help you successfully grow a wide variety of plants. It offers a user-friendly interface, responsive design, and a rich database of plant care instructions. 
+
+## Technology
+
+- Typescript
+- Next.js
+- Jest
+- Node
+- Sass
+- Storybook
 
 ## Features
 
