@@ -1,0 +1,15 @@
+.container {
+  padding: 0 2rem;
+  background-color: #FAFAFA;
+  min-height: 100vh;
+}
+
+.centeredContent {
+  display: grid;
+  place-items: center; 
+  text-align: center;
+}
+
+.heading {
+  color: #4CAF50;
+}

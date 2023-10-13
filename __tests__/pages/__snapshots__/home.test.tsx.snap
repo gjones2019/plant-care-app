@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders home page unchanged 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="centeredContent"
+    >
+      <h1
+        class="heading"
+      >
+        Welcome to My Plant Care App
+      </h1>
+      <div
+        class="main"
+      >
+        <div
+          class="grid"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
